@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClass06_API_JSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_go">Go</string>
+    <string name="search_keyword" />
+    <string name="search_hint">Search Keyword</string>
+    <string name="main_image_view">Main Image View</string>
+    <string name="prev_img">Previous</string>
+    <string name="img_next">Next</string>
+</resources>
